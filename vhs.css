@@ -9,3 +9,15 @@ body{
     padding: auto;
 }
 
+img {
+    width:953.5px;
+    height:639.5px;
+}
+
+@media screen and (max-width: 900px) {
+    img {
+        width: 476px;
+        height: 319px;
+    }
+}
+
